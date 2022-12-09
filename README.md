@@ -1,4 +1,4 @@
-# bandeira_do_Brasil
+# Bandeira_do_Brasil
 A nossa bandeira em HTML.
 
 Nos exercícios anteriores já praticamos como desenhar retângulos e triângulos. Agora só falta lembrar do círculo. Aqui também devemos começar um path:
